@@ -11,4 +11,4 @@ This application is closed-source.  Works included and used are:
 | [rawdraw](https://github.com/cntools/rawdraw) | [MIT License](https://github.com/cntools/rawdraw/blob/master/LICENSE) | [CNLohr, and more](https://github.com/cntools/rawdraw/graphs/contributors) |
 | [libconfig](https://github.com/hyperrealm/libconfig) | [GNU Lesser General Public License v2.1](https://github.com/hyperrealm/libconfig/blob/master/LICENSE) | [Mark Lindner and more](https://github.com/hyperrealm/libconfig/graphs/contributors) |
 | [miniaudio](https://github.com/mackron/miniaudio) | [Public Domain](https://github.com/mackron/miniaudio/blob/master/LICENSE) | [David Reid](https://github.com/mackron)
-| [openvr_overlay_model](https://github.com/cnlohr/openvr_overlay_model) | [MIT License](https://github.com/cnlohr/openvr_overlay_model/blob/master/LICENSE) | [CNLohr](https://github.com/cnlohr) |
+| [Math from openvr_overlay_model](https://github.com/cnlohr/openvr_overlay_model) | [MIT License](https://github.com/cnlohr/openvr_overlay_model/blob/master/LICENSE) | [CNLohr](https://github.com/cnlohr) |
